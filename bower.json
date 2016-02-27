@@ -1,0 +1,25 @@
+{
+  "name": "space",
+  "authors": [
+    "Fabio Nocera <fabio.f.nocera@gmail.com>"
+  ],
+  "description": "space for Advanced Graphics",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/fabulous999/space-assigment2.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*",
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}
