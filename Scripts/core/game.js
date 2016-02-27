@@ -257,12 +257,12 @@ function init() {
         // gui.add(controlObject, 'rotationSpeedy', -0.5, 0.5);
         // gui.add(controlObject, 'rotationSpeedz', -0.5, 0.5);
         gui.add(earths, 'earth');
-        gui.add(moons, 'moon');
-        gui.add(uranuss, 'uranus');
+        //   gui.add(moons,'moon');
+        //   gui.add(uranuss,'uranus');
         gui.add(marss, 'mars');
         gui.add(sols, 'sol');
-        gui.add(saturns, 'saturn');
-        gui.add(jupiters, 'jupiter');
+        //   gui.add(saturns,'saturn');
+        //  gui.add(jupiters,'jupiter');
     }
     function addStatsObject() {
         stats = new Stats();
